@@ -1,5 +1,4 @@
 import "@mantine/core/styles.css";
-import React from "react";
 
 import { Table } from "@mantine/core";
 import { data } from "../assets/dataset.ts";

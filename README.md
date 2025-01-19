@@ -80,3 +80,7 @@ This project is built using Vite, TypeScript, and React. It uses Mantine for the
 - ![table](image-1.png)
 - ![chart dark theme](image-2.png)
 - ![table dark theme](image-3.png)
+
+# clone repo
+
+- git clone https://github.com/D1urga/manufac

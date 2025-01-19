@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import { useEffect } from "react";
 import * as echarts from "echarts";
 import { data } from "../assets/dataset";
 import styles from "./styles/barchart.module.css";
