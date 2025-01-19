@@ -49,7 +49,7 @@ export default tseslint.config({
 });
 ```
 
-###
+##
 
 - This website is fully responsive on desktop, tablet and mobile .
 
@@ -61,20 +61,24 @@ export default tseslint.config({
 
 This project is built using Vite, TypeScript, and React. It uses Mantine for the UI components.
 
-## Prerequisites
+# Prerequisites
 
 - Node.js (version 16 or higher)
 - npm (Node Package Manager)
 
-## Run the development server
+## Deployed website link
+
+- https://manufac-ten.vercel.app/
+
+# Run the development server
 
 - yarn dev
 
-## Build the project for production
+# Build the project for production
 
 - yarn build
 
-## Chart Screenshots
+# Chart Screenshots
 
 - ![chart](image.png)
 - ![table](image-1.png)
